@@ -1,0 +1,10 @@
+# START nuxt-robots (indexable)
+User-agent: *
+Allow: /
+Disallow: /user/dashboard
+Disallow: /admin
+Disallow: /account
+
+Sitemap: https://mulebuysheet.com/sitemap.xml
+Sitemap: http://localhost/sitemap.xml
+# END nuxt-robots
